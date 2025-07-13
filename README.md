@@ -1,0 +1,2 @@
+# OCRopenCV
+Python_exercise
